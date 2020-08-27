@@ -44,7 +44,7 @@ This project use my [H-Shop-Strapi-API](https://github.com/Hakamate/H-Shop-Strap
 
 - NuxtJS (Vuejs Framework --> Frontend)
 - Vuetify (CSS Framework --> Style)
-- AdonisJS (NodeJS Framework --> Backend )
+- Strapi (NodeJS CMS --> Backend )
 - PostgreSQL (SGBDR)
 
 
