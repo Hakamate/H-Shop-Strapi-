@@ -2,7 +2,7 @@
   <v-app dark>
     <Navigation/>
     <v-main>
-      <v-container>
+      <v-container class="py-8">
         <nuxt />
       </v-container>
     </v-main>
@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import Navigation from "~/components/Navigation"
+import Navigation from "~/components/global/Navigation"
 
 export default {
   components:{
