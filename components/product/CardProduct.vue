@@ -43,9 +43,6 @@ export default {
     },
   },
   methods: {
-    getProduct() {
-      console.log(this.product)
-    },
   },
 }
 </script>
