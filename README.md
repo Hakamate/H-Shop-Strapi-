@@ -1,7 +1,7 @@
-# eCommerce-Strapi-API-Consumer
+# eCommerce-Strapi-API-NuxtConsumer
 
 
-**eCommerce-Strapi-API-Consumer** it's a fronted prototype to consume Strapi API Datas.
+**eCommerce-Strapi-API-NuxtConsumer** it's a fronted prototype to consume Strapi API Datas.
 
 This project use my [eCommerce-Strapi-API](https://github.com/Hakamate/eCommerce-Strapi-API).
 
