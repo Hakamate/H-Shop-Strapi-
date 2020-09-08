@@ -13,6 +13,7 @@ This project use my [eCommerce-Strapi-API](https://github.com/Hakamate/eCommerce
 |----------|:-------------:|:-------------|
 | List Products | &#10004; | Listing all Products |
 
+<!---
 <b>User Features</b>
 
 | Feature  |  Coded       | Description  |
@@ -21,7 +22,7 @@ This project use my [eCommerce-Strapi-API](https://github.com/Hakamate/eCommerce
 | Logout | &#10060; | Allow User to be disconnected |
 | Register | &#10060; | Allow Guest to create an Account |
 | Rules | &#10060; | Allow specific actions for specific Users |
-
+--->
 
 ## Technologies
 
