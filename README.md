@@ -1,5 +1,6 @@
 # eCommerce-Strapi-API-NuxtConsumer
 
+![WebSite Screen](https://i.ibb.co/ySwWdJ8/strapitest.png)
 
 **eCommerce-Strapi-API-NuxtConsumer** it's a fronted prototype to consume Strapi API Datas.
 
